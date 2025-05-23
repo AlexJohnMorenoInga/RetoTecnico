@@ -1,7 +1,7 @@
 # Proyecto: Prueba Técnica 
 
 Este proyecto es una API RESTful desarrollada con Java y Spring Boot como parte de la prueba técnica. 
-Se usa arquitectura hexagonal.
+Se usa arquitectura hexagonal. Tengo experiencia de 2 anios
 
 ## Tecnologías utilizadas
 
